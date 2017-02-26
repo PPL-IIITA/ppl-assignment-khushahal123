@@ -1,0 +1,19 @@
+In que1 the following minings are:
+in boy class:
+	at-Attraction
+	bd-Budget
+	iq-Intelligence
+	minat-minimum atrraction of girl required
+	btype-type of boyfriend
+
+	in girl class:
+		mbd=maintainence budget
+		at-Attraction
+		iq-Intelligence
+		choice-Type of boyfriend required
+		gtype-type of girlfriend
+
+	output will genrate in output.txt file
+
+
+
