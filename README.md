@@ -1,17 +1,59 @@
-# ppl-assignment-khushahal123
-ppl-assignment-khushahal123 created by GitHub Classroom
-The given code takes a text file boy.txt and girl.txt as input for que1 and genrate output.txt as an output file.
+#IPPL430C-assignment-khushahal123
 
-documentaion_q1 contain documentaion of que 1.
-and boy.txt ,girl.txt and gift.txt as input in que2 and genrate output.txt as an output file.
+-THE PROJECT HAS BEEN CREATED IN Eclipse IDE for Java on WINDOWS 8.0  (64-bit)
 
-documentaion_q2 contain documentaion of que 1.
+Version: Neon Release (4.6.0)
+Build id: 20160613-1800
 
-note:boy.txt and girl.txt are diffrent for que 1 and que 2 so use it accordingly.
-at the time of compilation the input files should be in same respective folder.
+**************************************************************************************************************************
 
-*********************************************************************
 
-THE PROJECT HAS BEEN CREATED IN ECLIPSE(NEON) (Windows 10 64 bit).CONSIDER BUILDING IT ACCORDINGLY
-compile the code as :- java -jar "q1.jar"
-			java -jar "q2.jar"
+For the questions no. 3 to 10
+-boy.txt  , girl.txt , gift.txt are the input files.
+-Only for question 7 boylist.txt is an input file along with boy.txt  , girl.txt , gift.txt.-on compiling the output.txt file will generate which stores the output.
+
+ 
+****************************************************************************************************************************
+
+-The three folders are uploaded
+1-"javadoc" which contains the documentaion of the questions
+2-"classdiagram" which contain class diagrams of the qustions
+3-"programes" which contain .java  files along with their respective inpute files.
+
+
+Note:-I will also upload the inpute files folder name "inputfiles" in case you have not found the above one.
+******************************************************************************************************************************
+
+For compiling the programe ,
+go to programe folder,
+download the all .java files from the respective question foler,
+example:- if you are downloaing .java frome ppl_que3 then, open eclipse create java project,the create package named "que3"
+(if dowloading from ppl_que4 create package named"que4" and so for all questions) and the import all the .java file in that package and run the programe.
+.i.e run the main1.java class of the question.
+-NOTE: the input file should be inside the folder which will create in the workspace of that java project and output file will also create in same folder
+
+**************************************************************************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
